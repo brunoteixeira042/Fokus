@@ -20,7 +20,7 @@ Este repositório contém o código do projeto Fokus,O projeto tem como objetivo
 
 **Prints da Tela:**
 
-[Inserir prints da tela da aplicação Fokus]
+<img width="755" alt="image" src="https://github.com/user-attachments/assets/35b69643-4964-4db7-a32f-4f7c2e579200">
 
 **Como usar este repositório:**
 
