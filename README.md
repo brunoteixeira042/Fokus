@@ -19,8 +19,10 @@ Este repositório contém o código do projeto Fokus,O projeto tem como objetivo
 *   JavaScript (25.7%)
 
 **Prints da Tela:**
+![Captura de tela 2024-10-14 220957](https://github.com/user-attachments/assets/9e23191b-555e-48a7-b39e-0eb066415208)
 
-<img width="755" alt="image" src="https://github.com/user-attachments/assets/35b69643-4964-4db7-a32f-4f7c2e579200">
+<img width="845" alt="image" src="https://github.com/user-attachments/assets/c7c63788-76ca-4217-affb-ced330678627">
+
 
 **Como usar este repositório:**
 
